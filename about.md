@@ -4,12 +4,10 @@ title: Sobre
 permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info sobre customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Esta página contém informações sobre várias tecnologias que são utilizadas 
+no dia a dia do desenvolvedor Marcelo Fachinelli. O conteúdo está disponibilizado em português devido a bareirra que alguns desenvolvedores brasileiros enfrentam ao procurar conteúdo que esteja em sua linguagem nativa.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Para mais informações sobre o Marcelo, acesse:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Github](https://github.com/mvppoa) /
+[Linkedin](https://www.linkedin.com/in/marcelo-fachinelli-51b89121/)
